@@ -1,24 +1,18 @@
 [submodule "front-end"]
 	path = front-end
 	url = git@github.com:madfish-solutions/diodon-hackathon-front.git
-	branch = master
 [submodule "back-end"]
 	path = back-end
 	url = git@github.com:madfish-solutions/diodon-mock-data.git
-	branch = main
 [submodule "contracts"]
 	path = contracts
 	url = git@github.com:madfish-solutions/perpetual-contracts.git
-	branch = master
-[submodule "contracts-interface"]
-	path = contracts-interface
+[submodule "contracts-interfaces"]
+	path = contracts-interfaces
 	url = git@github.com:madfish-solutions/perpetual-contracts-interface.git
-	branch = main
 [submodule "faucet-bot"]
 	path = faucet-bot
 	url = git@github.com:madfish-solutions/diodon-faucet.git
-	branch = main
 [submodule "service-bots"]
 	path = service-bots
 	url = git@github.com:madfish-solutions/didon-helper-bot.git
-	branch = main
